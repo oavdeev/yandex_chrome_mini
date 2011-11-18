@@ -1,0 +1,10 @@
+{
+  "name": "Yandex Search",
+  "description": "Yandex search in context menu",
+  "version": "0.1",
+  "icons" : { "16" : "16search.png" },
+  "permissions": ["contextMenus"],
+  "background_page": "background.html",
+  "content_security_policy": "default-src 'self'"
+}
+

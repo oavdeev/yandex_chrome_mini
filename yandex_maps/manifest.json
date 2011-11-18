@@ -1,0 +1,10 @@
+{
+  "name": "Yandex Maps",
+  "description": "Yandex maps search",
+  "version": "0.1",
+  "icons" : { "16" : "16maps.png" },
+  "permissions": ["contextMenus"],
+  "background_page": "background.html",
+  "content_security_policy": "default-src 'self'"
+}
+
